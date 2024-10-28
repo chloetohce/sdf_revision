@@ -1,0 +1,7 @@
+Use of recursive method (fib sequence or method)
+
+1. Print out number in descending order
+2. Print out number in ascending order
+
+Minimax
+3. Given a series of numbers, provide the optimum value
